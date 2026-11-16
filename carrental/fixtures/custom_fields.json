@@ -1,0 +1,9 @@
+[
+ {
+  "dt": "Frappe Car Rental Fleet Dispatch Entry",
+  "fieldname": "custom_audit_verified",
+  "fieldtype": "Check",
+  "insert_after": "status",
+  "label": "Audit Verified"
+ }
+]
