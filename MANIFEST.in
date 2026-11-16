@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include carrental *.css
+recursive-include carrental *.csv
+recursive-include carrental *.html
+recursive-include carrental *.ico
+recursive-include carrental *.js
+recursive-include carrental *.json
+recursive-include carrental *.md
+recursive-include carrental *.png
+recursive-include carrental *.py
+recursive-include carrental *.svg
+recursive-include carrental *.txt
+recursive-exclude carrental *.pyc

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "frappe_car_rental_fleet_dispatch"
+version = "1.0.0"
+description = "Frappe Car Rental Fleet Dispatch - Official Frappe Framework App"
+authors = [{ name = "Shyamkumar Pandey", email = "shyampandey1104@gmail.com" }]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "frappe"
+]
